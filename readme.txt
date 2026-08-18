@@ -3,7 +3,7 @@ Contributors: adamsilverstein
 Tags: media, uploads, performance, wasm
 Requires at least: 6.8
 Tested up to: 7.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -36,6 +36,9 @@ No. Activating the plugin disables client-side media processing; deactivating it
 No. It only affects how new uploads are processed.
 
 == Changelog ==
+
+= 1.0.1 =
+* Add plugin banner and icon assets for the plugin directory.
 
 = 1.0.0 =
 * Initial release.
